@@ -1,4 +1,6 @@
 pytest
+inquirer
+sqlite-utils
 pandas
 matplotlib
 inquirerpy
